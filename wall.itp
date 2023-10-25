@@ -1,0 +1,9 @@
+; Created by cgenff_charmm2gmx.py
+[ moleculetype ]
+; Name             nrexcl
+WW              3
+[ atoms ]
+;    nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+; residue    1 NPH rtp NPH q    qsum
+     1      X      1    WW      WA       1     -0.15     14   ;
+
